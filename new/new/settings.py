@@ -81,4 +81,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 "one more time "
 "new change"
 "again"
-"adeed"
