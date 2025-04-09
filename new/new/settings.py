@@ -75,6 +75,9 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+ second
+"shweta saini"
+
 "shweta saini"
 "try rebase "
 "try for 5th bracnch"
@@ -82,3 +85,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 "new change"
 "again"
 "fine"
+ main
