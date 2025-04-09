@@ -75,7 +75,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
- second
+" second"
 "shweta saini"
 
 "shweta saini"
@@ -85,4 +85,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 "new change"
 "again"
 "fine"
- main
+" main"
